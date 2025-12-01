@@ -1,23 +1,37 @@
-# Academic Deadline Tracker
+# 📚 Academic Deadline Tracker
 
-A simple, user-friendly desktop application for students to track assignments, projects, and exam deadlines with countdowns and notifications.
+![GitHub License](https://img.shields.io/github/license/RSPRAJWAL/Academic-Deadline-Tracker)
+![Last Commit](https://img.shields.io/github/last-commit/RSPRAJWAL/Academic-Deadline-Tracker)
+![Repo Size](https://img.shields.io/github/repo-size/RSPRAJWAL/Academic-Deadline-Tracker)
+![Issues](https://img.shields.io/github/issues/RSPRAJWAL/Academic-Deadline-Tracker)
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue)
+![GitHub stars](https://img.shields.io/github/stars/RSPRAJWAL/Academic-Deadline-Tracker?style=social)
 
-## Features
+---
 
-- Add, edit, delete tasks with title, description, due date, course/subject, priority, and reminder time
-- List view sorted by nearest due date with human-friendly countdowns
-- Search and filter by course/subject and priority
-- Mark tasks as completed with archived view
-- Export and import tasks as JSON
-- Push notifications via Firebase Cloud Messaging with local fallback
-- Dark mode toggle
-- Calendar month view
-- SQLite database storage with JSON backup
+A modern, user-friendly productivity app designed to help students track projects, assignments, and exam deadlines with automation, countdowns, notifications, and smart reminders — all in one place.
 
-## Requirements
+---
 
-- Python 3.10+
-- Dependencies listed in [requirements.txt](requirements.txt)
+## ✨ Key Features
+
+- 📝 Create, edit, and delete academic tasks  
+- ⏳ Smart countdown showing days left until deadline  
+- 🔍 Search and filter by subject or priority  
+- ✔️ Mark tasks as completed with archive history  
+- 📤 Export / 📥 Import tasks as JSON  
+- 🔔 Push notifications (Firebase) + local fallback  
+- 🌓 Dark mode support  
+- 📅 Calendar month view  
+- 💾 SQLite storage with optional cloud configurations  
+
+---
+
+## 🛠️ Requirements
+
+- **Python 3.10+**
+- Dependencies listed in the project:
+   
 
 ## Setup
 
